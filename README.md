@@ -8,18 +8,15 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## Algorithm
 
-STEP 1 :START
-STEP 2 :Get the independent variable X and dependent variable Y.
-STEP 3 :Calculate the mean of the X -values and the mean of the Y -values.
-STEP 4 :Find the slope m of the line of best fit using the formula. 
-![image](https://github.com/user-attachments/assets/49c80feb-83fe-45c6-af53-a4d9fc61a2a9)
-
-STEP 5 :Compute the y -intercept of the line by using the formula:
-![image](https://github.com/user-attachments/assets/4dbbe110-5b2d-407f-b721-4b241701b5dc)
-
-STEP 6 :Use the slope m and the y -intercept to form the equation of the line.
-STEP 7 :Obtain the straight line equation Y=mX+b and plot the scatterplot.
-STEP 8 :END
+## Algorithm
+1. Get the independent variable X and dependent variable Y.
+2. Calculate the mean of the X -values and the mean of the Y -values.
+3. Find the slope m of the line of best fit using the formula. 
+<img width="231" alt="image" src="https://user-images.githubusercontent.com/93026020/192078527-b3b5ee3e-992f-46c4-865b-3b7ce4ac54ad.png">
+4. Compute the y -intercept of the line by using the formula:
+<img width="148" alt="image" src="https://user-images.githubusercontent.com/93026020/192078545-79d70b90-7e9d-4b85-9f8b-9d7548a4c5a4.png">
+5. Use the slope m and the y -intercept to form the equation of the line.
+6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 ## Program:
 ```
